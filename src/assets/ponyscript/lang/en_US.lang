@@ -1,0 +1,4 @@
+ponyscript.command.usage=/exe <your script>
+ponyscript.command.script_error=script error line %d
+
+ponyscript.exception.block_not_found=cannot find the block: %s
